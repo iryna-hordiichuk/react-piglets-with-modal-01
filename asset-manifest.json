@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-56-piglets/static/css/main.c3d5249d.css",
-    "main.js": "/react-56-piglets/static/js/main.06789a00.js",
-    "index.html": "/react-56-piglets/index.html",
-    "main.c3d5249d.css.map": "/react-56-piglets/static/css/main.c3d5249d.css.map",
-    "main.06789a00.js.map": "/react-56-piglets/static/js/main.06789a00.js.map"
+    "main.css": "/react-piglets-with-modal-01/static/css/main.c3d5249d.css",
+    "main.js": "/react-piglets-with-modal-01/static/js/main.d199d7c6.js",
+    "index.html": "/react-piglets-with-modal-01/index.html",
+    "main.c3d5249d.css.map": "/react-piglets-with-modal-01/static/css/main.c3d5249d.css.map",
+    "main.d199d7c6.js.map": "/react-piglets-with-modal-01/static/js/main.d199d7c6.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.06789a00.js"
+    "static/js/main.d199d7c6.js"
   ]
 }
